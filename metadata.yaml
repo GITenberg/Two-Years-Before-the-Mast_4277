@@ -1,0 +1,38 @@
+_repo: Two-Years-Before-the-Mast_4277
+creator:
+  author:
+    agent_name: Dana, Richard Henry
+    alias: Dana, R. H. (Richard Henry)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '803'
+    url: http://www.gutenberg.org/2009/agents/803
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
+description: "Two Years Before the Mast is a memoir by the American author Richard\
+  \ Henry Dana, Jr., published in 1840, having been written after a two-year sea voyage\
+  \ From Boston to California on a merchant ship starting in 1834. A film adaptation\
+  \ under the same name was released in 1946.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4277'
+  wikidata: Q3024921
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Seafaring life'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Dana, Richard Henry, 1815-1882'
+- !lcsh 'Sailors'
+title: Two Years Before the Mast
+url: http://www.gutenberg.org/ebooks/4277
+wikipedia:
+- https://eo.wikipedia.org/wiki/Du_Jarojn_anta%C5%AD_la_Masto
+- https://en.wikipedia.org/wiki/Two_Years_Before_the_Mast
+- https://fr.wikipedia.org/wiki/Deux_ann%C3%A9es_sur_le_gaillard_d%27avant
+- https://es.wikipedia.org/wiki/Dos_a%C3%B1os_al_pie_del_m%C3%A1stil
+- https://la.wikipedia.org/wiki/Two_Years_before_the_Mast
