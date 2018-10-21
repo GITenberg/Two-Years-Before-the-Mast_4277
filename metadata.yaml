@@ -1,5 +1,5 @@
 _repo: Two-Years-Before-the-Mast_4277
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,6 +34,7 @@ subjects:
 - !lcsh 'Voyages and travels'
 - !lcsh 'Dana, Richard Henry, 1815-1882'
 - !lcsh 'Sailors'
+- GITenberg
 title: Two Years Before the Mast
 url: http://www.gutenberg.org/ebooks/4277
 wikipedia:
